@@ -11,6 +11,7 @@
     {"id":{"name":"level1_room","path":"rooms/level1_room/level1_room.yy",},"order":1,},
     {"id":{"name":"Button_font","path":"fonts/Button_font/Button_font.yy",},"order":0,},
     {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},"order":4,},
+    {"id":{"name":"exit_button","path":"objects/exit_button/exit_button.yy",},"order":6,},
     {"id":{"name":"play_button","path":"objects/play_button/play_button.yy",},"order":2,},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},"order":0,},
   ],
