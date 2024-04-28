@@ -11,9 +11,9 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 566,
-  "bbox_right": 1319,
+  "bbox_right": 1254,
   "bbox_top": 48,
-  "bbox_bottom": 1399,
+  "bbox_bottom": 1043,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -29,7 +29,6 @@
   "gridY": 0,
   "frames": [
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f7aa68f1-654f-47e7-bf1c-9978c93616c0",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e03c1387-2b35-4e3a-aa96-acaff2ac2110",},
   ],
   "sequence": {
     "resourceType": "GMSequence",
@@ -41,13 +40,12 @@
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 2.0,
+    "length": 1.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"86ebabb1-c1bc-4c9e-8dc5-a17c8ee31595","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f7aa68f1-654f-47e7-bf1c-9978c93616c0","path":"sprites/Spr_alex_swimdown/Spr_alex_swimdown.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"b770e93f-b81b-499f-aa09-506b89a61266","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e03c1387-2b35-4e3a-aa96-acaff2ac2110","path":"sprites/Spr_alex_swimdown/Spr_alex_swimdown.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
