@@ -22,6 +22,7 @@
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_416EAFC5_1_1_1_1","properties":[],"isDnd":false,"objectId":{"name":"home_button","path":"objects/home_button/home_button.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.68,"scaleY":0.68,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":32.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4FA7E5A4","properties":[],"isDnd":false,"objectId":{"name":"intro_text_controller6","path":"objects/intro_text_controller6/intro_text_controller6.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":768.0,"y":224.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3604B025","properties":[],"isDnd":false,"objectId":{"name":"next6_button","path":"objects/next6_button/next6_button.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.4,"scaleY":2.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1152.0,"y":688.0,},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","spriteId":{"name":"intro_backdrop","path":"sprites/intro_backdrop/intro_backdrop.yy",},"colour":4294967295,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":true,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
   ],
@@ -31,6 +32,7 @@
   "instanceCreationOrder": [
     {"name":"inst_416EAFC5_1_1_1_1","path":"rooms/flashback5_scene_room/flashback5_scene_room.yy",},
     {"name":"inst_4FA7E5A4","path":"rooms/flashback5_scene_room/flashback5_scene_room.yy",},
+    {"name":"inst_3604B025","path":"rooms/flashback5_scene_room/flashback5_scene_room.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
