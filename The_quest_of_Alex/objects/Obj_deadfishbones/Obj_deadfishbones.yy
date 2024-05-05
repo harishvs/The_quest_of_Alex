@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object18",
-  "spriteId": null,
+  "name": "Obj_deadfishbones",
+  "spriteId": {
+    "name": "fish_bones",
+    "path": "sprites/fish_bones/fish_bones.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,

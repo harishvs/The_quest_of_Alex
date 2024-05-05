@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object21",
-  "spriteId": null,
+  "name": "Obj_papertissue",
+  "spriteId": {
+    "name": "tissue_paper",
+    "path": "sprites/tissue_paper/tissue_paper.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,

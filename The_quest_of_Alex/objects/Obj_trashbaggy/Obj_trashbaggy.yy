@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object19",
-  "spriteId": null,
+  "name": "Obj_trashbaggy",
+  "spriteId": {
+    "name": "trash_bag",
+    "path": "sprites/trash_bag/trash_bag.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
