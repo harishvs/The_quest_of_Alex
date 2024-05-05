@@ -35,6 +35,7 @@
     {"id":{"name":"flashback5_scene_room","path":"rooms/flashback5_scene_room/flashback5_scene_room.yy",},"order":8,},
     {"id":{"name":"Spr_alex_swimleft","path":"sprites/Spr_alex_swimleft/Spr_alex_swimleft.yy",},"order":26,},
     {"id":{"name":"Spr_tinypearlitem","path":"sprites/Spr_tinypearlitem/Spr_tinypearlitem.yy",},"order":19,},
+    {"id":{"name":"nextbutton7","path":"objects/nextbutton7/nextbutton7.yy",},"order":24,},
     {"id":{"name":"trash_bag_falling","path":"sequences/trash_bag_falling/trash_bag_falling.yy",},"order":2,},
     {"id":{"name":"eggs","path":"sprites/eggs/eggs.yy",},"order":7,},
     {"id":{"name":"Spr_oldtoad","path":"sprites/Spr_oldtoad/Spr_oldtoad.yy",},"order":10,},
