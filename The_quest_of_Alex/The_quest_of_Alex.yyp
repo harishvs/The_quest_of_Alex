@@ -56,6 +56,7 @@
     {"id":{"name":"fish_bones_falling","path":"sequences/fish_bones_falling/fish_bones_falling.yy",},"order":0,},
     {"id":{"name":"BigText1","path":"fonts/BigText1/BigText1.yy",},"order":16,},
     {"id":{"name":"intro_backdrop","path":"sprites/intro_backdrop/intro_backdrop.yy",},"order":4,},
+    {"id":{"name":"banana_peel_falling","path":"sequences/banana_peel_falling/banana_peel_falling.yy",},"order":1,},
     {"id":{"name":"flashback3_scene_room","path":"rooms/flashback3_scene_room/flashback3_scene_room.yy",},"order":6,},
     {"id":{"name":"next2_button","path":"objects/next2_button/next2_button.yy",},"order":9,},
     {"id":{"name":"exit_button","path":"objects/exit_button/exit_button.yy",},"order":2,},
