@@ -65,6 +65,7 @@
     {"id":{"name":"show_credits","path":"objects/show_credits/show_credits.yy",},"order":4,},
     {"id":{"name":"level1_game_room","path":"rooms/level1_game_room/level1_game_room.yy",},"order":9,},
     {"id":{"name":"Object18","path":"objects/Object18/Object18.yy",},"order":17,},
+    {"id":{"name":"tissue_paper_falling","path":"sequences/tissue_paper_falling/tissue_paper_falling.yy",},"order":3,},
     {"id":{"name":"Object20","path":"objects/Object20/Object20.yy",},"order":19,},
     {"id":{"name":"intro_text_controller5","path":"objects/intro_text_controller5/intro_text_controller5.yy",},"order":13,},
     {"id":{"name":"Spr_parenthut","path":"sprites/Spr_parenthut/Spr_parenthut.yy",},"order":13,},
