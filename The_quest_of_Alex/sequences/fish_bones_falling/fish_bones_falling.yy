@@ -4,7 +4,7 @@
   "name": "fish_bones_falling",
   "spriteId": null,
   "timeUnits": 1,
-  "playback": 0,
+  "playback": 1,
   "playbackSpeed": 20.0,
   "playbackSpeedType": 0,
   "autoRecord": true,

@@ -14,3 +14,10 @@ image_speed = 0;
 /// @DnDArgument : "var_1" "hp_max"
 hp = 10;
 hp_max = 10;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 2659924E
+/// @DnDArgument : "expr" "15"
+/// @DnDArgument : "var" "playerspeedo"
+playerspeedo = 15;
